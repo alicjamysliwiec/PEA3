@@ -1,0 +1,12 @@
+﻿  Genetyczny.cpp
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\Genetyczny.cpp(103,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\Genetyczny.cpp(241,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\Genetyczny.cpp(260,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\Genetyczny.cpp(287,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Menu.cpp
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\Menu.cpp(9,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\Menu.cpp(10,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  PEA3.cpp
+C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\PEA3\PEA3.cpp(14,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  PEA3.vcxproj -> C:\Users\Alicja\Desktop\Studia\5 semestr\Projektowanie Efektywnych Algorytmów\Zadanie 3\PEA3\Debug\PEA3.exe
